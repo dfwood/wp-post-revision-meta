@@ -1,0 +1,25 @@
+{
+  "name": "dfwood/wp-post-revision-meta",
+  "description": "A library to allow post meta to be saved/restored with WordPress post revisions.",
+  "license": "GPLv3",
+  "type": "library",
+  "homepage": "https://github.com/dfwood/wp-post-revision-meta",
+  "authors": [
+    {
+      "name": "David Wood",
+      "email": "david@davidwood.ninja",
+      "homepage": "https://davidwood.ninja/"
+    }
+  ],
+  "support": {
+    "source": "https://github.com/dfwood/wp-post-revision-meta"
+  },
+  "require": {
+    "dfwood/wp-post-meta": "@stable"
+  },
+  "autoload": {
+    "psr-4": {
+      "dfwood\\WordPress\\": ""
+    }
+  }
+}
