@@ -1,7 +1,7 @@
 {
   "name": "dfwood/wp-post-revision-meta",
   "description": "A library to allow post meta to be saved/restored with WordPress post revisions.",
-  "license": "GPLv3",
+  "license": "GPL-3.0",
   "type": "library",
   "homepage": "https://github.com/dfwood/wp-post-revision-meta",
   "authors": [
